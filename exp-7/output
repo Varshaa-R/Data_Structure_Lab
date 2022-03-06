@@ -1,0 +1,47 @@
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:45
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:46
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:47
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+47 --> 46 --> 45
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 2
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+46 --> 45
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 4
