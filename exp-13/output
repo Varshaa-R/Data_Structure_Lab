@@ -7,3 +7,12 @@ Enter element 4 : 60
 Enter element 5 : 40
 Sorted list is :
 10 20 40 60 80  
+
+
+Enter the Size of the Array : 5
+Enter the Elements of the Array : 60
+50
+80
+10
+20
+10 20 50 60 80 
